@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="21a215cc-911d-4144-a36f-21b1a78255a8" name="php" url="http://ftp.stackcp.com">
+      <webServer id="21a215cc-911d-4144-a36f-21b1a78255a8" name="pashutaz" url="http://ftp.stackcp.com">
         <fileTransfer host="ftp.stackcp.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
