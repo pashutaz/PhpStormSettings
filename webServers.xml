@@ -28,6 +28,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="cc44e020-41e0-4a0d-95c0-62bb2f9c1f46" name="testUK" url="http://ftp.stackcp.com">
+        <fileTransfer host="ftp.stackcp.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
