@@ -36,6 +36,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="50d590c4-7a52-426a-96eb-32b451e7608d" name="DTI" url="http://195.211.103.244">
+        <fileTransfer host="195.211.103.244" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
